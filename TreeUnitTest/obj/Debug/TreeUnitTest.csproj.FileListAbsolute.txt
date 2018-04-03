@@ -1,0 +1,17 @@
+C:\Users\Alex\source\repos\ConsoleApp1\TreeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alex\source\repos\ConsoleApp1\TreeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alex\source\repos\ConsoleApp1\TreeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alex\source\repos\ConsoleApp1\TreeUnitTest\bin\Debug\TreeUnitTest.dll
+C:\Users\Alex\source\repos\ConsoleApp1\TreeUnitTest\bin\Debug\TreeUnitTest.pdb
+C:\Users\Alex\source\repos\ConsoleApp1\TreeUnitTest\bin\Debug\ConsoleApp1.exe
+C:\Users\Alex\source\repos\ConsoleApp1\TreeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Alex\source\repos\ConsoleApp1\TreeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Alex\source\repos\ConsoleApp1\TreeUnitTest\bin\Debug\ConsoleApp1.pdb
+C:\Users\Alex\source\repos\ConsoleApp1\TreeUnitTest\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Alex\source\repos\ConsoleApp1\TreeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Alex\source\repos\ConsoleApp1\TreeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Alex\source\repos\ConsoleApp1\TreeUnitTest\obj\Debug\TreeUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\ConsoleApp1\TreeUnitTest\obj\Debug\TreeUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ConsoleApp1\TreeUnitTest\obj\Debug\TreeUnitTest.csproj.CopyComplete
+C:\Users\Alex\source\repos\ConsoleApp1\TreeUnitTest\obj\Debug\TreeUnitTest.dll
+C:\Users\Alex\source\repos\ConsoleApp1\TreeUnitTest\obj\Debug\TreeUnitTest.pdb
